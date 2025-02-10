@@ -44,8 +44,6 @@ docker build -t bitcoin-simulation .
 docker run bitcoin-simulation
 ```
 
-## 📜 License
-This project is licensed under the MIT License.
 
 ---
 Developed by [Utkarsh Srivastava](https://github.com/utkarsh1507) 🚀
